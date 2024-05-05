@@ -21,8 +21,6 @@ The values to sum to 9 are 4 and 5
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Special Note
-Normally, it's not recommended to push configuration files like `launch.json` to version control, especially in a team environment where different developers may have their own debugging configurations. However, for the purpose of this project and as a learning resource for debugging TypeScript projects with Visual Studio Code, the `launch.json` file is included in this repository.
+Include `launch.json` to version control, for the purpose of this project and as a learning resource for debugging TypeScript projects with Visual Studio Code.
 
-Feel free to use this `launch.json` configuration as a reference for setting up and debugging TypeScript projects in Visual Studio Code.
 
-Please note that sensitive information such as API keys or environment variables should never be included in version-controlled files like `launch.json`.
